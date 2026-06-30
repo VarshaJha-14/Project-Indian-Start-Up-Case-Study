@@ -1,8 +1,8 @@
 📊 Business Question
 
 Where should a startup establish its headquarters to maximize its chances of securing funding?
+<img width="945" height="666" alt="image" src="https://github.com/user-attachments/assets/39dfdea3-787b-46f8-b63b-d8457f65bbe1" />
 
-🖼️ (Chart)
 
 🔍 Key Findings
 
