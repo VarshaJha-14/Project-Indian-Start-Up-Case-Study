@@ -1,6 +1,7 @@
 ## 🏙️ Top Startup Cities
 
-![Top Indian Startup Cities](images/top_cities.png)
+<img width="707" height="533" alt="image" src="https://github.com/user-attachments/assets/f7d52464-7e4c-4ae9-b890-57b7e1ee5aba" />
+
 
 ### Key Findings
 - **Bangalore** leads India's startup ecosystem with the highest number of funded startups.
